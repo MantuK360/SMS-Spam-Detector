@@ -1,6 +1,5 @@
 streamlit
 nltk
 scikit-learn
-pip install nltk
 import nltk
 nltk.download()
